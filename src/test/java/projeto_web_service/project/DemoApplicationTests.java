@@ -1,4 +1,4 @@
-package projeto_web_service.demo;
+package projeto_web_service.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
