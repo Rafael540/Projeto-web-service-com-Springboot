@@ -16,6 +16,7 @@ import java.util.List;
 @Table(name = "tb_users")
 @EqualsAndHashCode(of ="id")
 public class User implements Serializable {
+    private static final long serialVersionUID = 1L;
 
 
     @Id
