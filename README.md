@@ -64,27 +64,23 @@ src/
 ### Passos
 
 1. Clone o repositório:
-   ```bash
+   bash
    git clone https://github.com/Rafael540/Projeto-web-service-com-Springboot.git
-````
-
+   
 2. Acesse o diretório do projeto:
-
-   ```bash
+   bash
    cd Projeto-web-service-com-Springboot
-   ```
-
+   
 3. Execute a aplicação:
-
-   ```bash
+   bash
    mvn spring-boot:run
-   ```
+   
 
 4. A aplicação será iniciada em:
 
-   ```
+ 
    http://localhost:8080
-   ```
+ 
 
 ---
 
@@ -105,6 +101,6 @@ GitHub: [https://github.com/Rafael540](https://github.com/Rafael540)
 
 Projeto desenvolvido para fins de estudo e aprendizado.
 
-```
+
 
 
